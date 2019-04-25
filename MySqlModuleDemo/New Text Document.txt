@@ -1,0 +1,7 @@
+from Virtual Classroom 55 to All Participants:
+npm config set  http-proxy  "http://www-proxy.us.oracle.com:80"
+npm config set https-proxy "http://www-proxy.us.oracle.com:80"
+npm config set registry "http://registry.npmjs.org/"
+
+
+http://localhost/phpmyadmin/
