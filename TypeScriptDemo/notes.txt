@@ -1,0 +1,22 @@
+**Nodejs Language problems.
+
+data types declaration.
+parameter declaration
+access specifers(public, private)
+
+
+**Microsoft
+
+ -> Typescript Language
+
+** npm install -g typescript
+
+//this command will creates package.json
+** npm init
+
+// this command is used save dependencies in package.json
+npm install --save-dev
+
+npm install --save-dev mysql express
+
+npm install -g ./Typescript

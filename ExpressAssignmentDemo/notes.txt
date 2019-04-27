@@ -1,0 +1,12 @@
+**clsNodejs Language problems.
+
+data types declaration.
+parameter declaration
+access specifers(public, private)
+
+
+**Microsoft
+
+Typescript
+
+
