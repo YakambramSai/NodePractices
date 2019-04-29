@@ -1,0 +1,8 @@
+Introduction:
+=============
+1. open source.
+2. light weight.
+3. singleThread.
+4. Asynchromous in nature
+5. Non blocking nature
+6. Event driven.

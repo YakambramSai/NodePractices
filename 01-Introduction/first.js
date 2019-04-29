@@ -1,4 +1,6 @@
 console.log("Hello world");
+
+//assign values to varaibles
 data = "Good Morning";
 demo = data;
 data ="Hello World";
